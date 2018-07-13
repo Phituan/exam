@@ -1,0 +1,11 @@
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\bin\Debug\netcoreapp2.0\ConsoleApptest.deps.json
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\bin\Debug\netcoreapp2.0\ConsoleApptest.runtimeconfig.json
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\bin\Debug\netcoreapp2.0\ConsoleApptest.runtimeconfig.dev.json
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\bin\Debug\netcoreapp2.0\ConsoleApptest.dll
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\bin\Debug\netcoreapp2.0\ConsoleApptest.pdb
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\obj\Debug\netcoreapp2.0\ConsoleApptest.csprojAssemblyReference.cache
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\obj\Debug\netcoreapp2.0\ConsoleApptest.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\obj\Debug\netcoreapp2.0\ConsoleApptest.AssemblyInfoInputs.cache
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\obj\Debug\netcoreapp2.0\ConsoleApptest.AssemblyInfo.cs
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\obj\Debug\netcoreapp2.0\ConsoleApptest.dll
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApptest\ConsoleApptest\obj\Debug\netcoreapp2.0\ConsoleApptest.pdb
